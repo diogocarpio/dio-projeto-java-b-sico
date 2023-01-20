@@ -1,2 +1,2 @@
-# dio-projeto-java-b-sico
+# dio-projeto-java-básico
 Resolvendo soluções básicas em Java
